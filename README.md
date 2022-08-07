@@ -5,7 +5,7 @@ Repository created to document the process of learning git and the useful comman
 2. [Setting up Git](#2-setting-up-git)  
 2.1 [List of commands](#21-list-of-commands)    
 2.1.1 [Carriage Return](#211-carriage-return)
-3. [Terminal basic commands](#3-terminal-basic-commads)
+3. [Terminal basic commands](#3-terminal-basic-commands)
 
 ## 1. Install Git
 Download Git from this url: https://git-scm.com/downloads  
