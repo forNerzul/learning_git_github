@@ -63,5 +63,12 @@ git config -h
 ```
 ls
 ```
-> The "ls" command will return the list of files in the directory we are currently in.
-
+> The "ls" command will return the list of files in the directory you are currently in.
+```
+pwd
+```
+> The "pwd" command will return the directory you are actually in.
+```
+cd <directory>
+```
+> The "cd" will allow us to move to another directory, for example, imagine we are in /Desktop, and inside we have a directory called Project, so to access Project we have to type "cd Project" now press enter and you will notice if you use the command "pwd" we are in /Desktop/Project
