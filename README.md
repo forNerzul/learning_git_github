@@ -60,3 +60,7 @@ git config -h
 ```
 
 ## 3. Terminal basic commands
+```
+ls
+```
+> The "ls" command will return the list of files in the directory we are currently in. 
