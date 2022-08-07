@@ -17,3 +17,7 @@ This command will return the version of git we have installed
 git config --global user.name "user name"
 ```
 This is to set you username in the global config
+```
+git config --global user.email "youremail@yourdomain.com"
+```
+This is to set your email in the global config
