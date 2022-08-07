@@ -7,3 +7,4 @@ Let's put some commands in the terminal (if you are using Windows do not use CMD
 ```
     git --version 
 ```
+This command will return the version of git we have installed
