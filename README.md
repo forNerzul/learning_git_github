@@ -3,6 +3,7 @@ Repository created to document the process of learning git and the useful comman
 ## Install Git
 ## Setting up Git
 ### List of commands
+Let's put some commands in the terminal (if you are using Windows do not use CMD better use git-bash)
 ```
-    git --version
+    git --version 
 ```
