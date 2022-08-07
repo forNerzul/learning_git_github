@@ -1,7 +1,7 @@
 # learning_git_github
 Repository created to document the process of learning git and the useful commands i will need in this process
 ## Install Git
-Download Git from this url: https://git-scm.com/downloads
+Download Git from this url: https://git-scm.com/downloads  
 If you already have Git installed, you can get the latest development version via Git itself:
 ```
 git clone https://github.com/git/git
@@ -21,3 +21,7 @@ This is to set you username in the global config
 git config --global user.email "youremail@yourdomain.com"
 ```
 This is to set your email in the global config
+
+Once we have set these commands we have configured our git to use this information, the next step will be to configure our code editor, I preferred VScode.  
+Download VScode from this url: https://code.visualstudio.com/download  
+
