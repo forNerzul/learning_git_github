@@ -13,3 +13,7 @@ Let's put some commands in the terminal (if you are using Windows do not use CMD
 git --version 
 ```
 This command will return the version of git we have installed
+```
+git config --global user.name "user name"
+```
+This is to set you username in the global config
