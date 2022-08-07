@@ -1,8 +1,9 @@
 # learning_git_github
 Repository created to document the process of learning git and the useful commands i will need in this process
 ## Table of Contents
-1. [1. Install Git ](#example)
-2. [Example2](#example2)
+1. [Install Git ](#1-install-git)
+2. [Setting up Git](#2-setting-up-git)
+2.1 [List of commands](#2.1)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
@@ -12,8 +13,8 @@ If you already have Git installed, you can get the latest development version vi
 ```
 git clone https://github.com/git/git
 ```
-## Setting up Git
-### List of commands
+## 2. Setting up Git
+### 2.1 List of commands
 Let's put some commands in the terminal (if you are using Windows do not use CMD better use git-bash)
 ```
 git --version 
