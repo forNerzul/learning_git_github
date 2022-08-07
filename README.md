@@ -48,11 +48,11 @@ You can configure git to handle the end-of-line automatically so you can colabor
 ```
 git config --global core.autocrlf input
 ```
-In case you are using macOS or linux you must use "input" to set up autocrlf
+> In case you are using macOS or linux you must use "input" to set up autocrlf
 ```
 git config --global core.autocrlf true
 ```
-In case you are using Windows you must use "true" to set up autocrlf  
+> In case you are using Windows you must use "true" to set up autocrlf  
 
 If you want to know what other configuration possibilities git has you can use
 ```
