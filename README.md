@@ -31,5 +31,13 @@ This is to set VScode as our default code editor, the "--wait" option is used to
 ```
 git config --global -e
 ```
-This command is to open our global configuration file in VScode, if it works the configuration file will open showing us the settings we put before.
+This command is to open our global configuration file in VScode, if it works the configuration file will open showing us the settings we put before.  
 
+Carriage Return:  
+
+```
+git config --global core.autocrlf input
+```
+```
+git config --global core.autocrlf true
+```
