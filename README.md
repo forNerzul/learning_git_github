@@ -1,6 +1,12 @@
 # learning_git_github
 Repository created to document the process of learning git and the useful commands i will need in this process
-## Install Git
+## Table of Contents
+1. [1. Install Git ](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+## 1. Install Git
 Download Git from this url: https://git-scm.com/downloads  
 If you already have Git installed, you can get the latest development version via Git itself:
 ```
