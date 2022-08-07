@@ -34,6 +34,9 @@ git config --global -e
 This command is to open our global configuration file in VScode, if it works the configuration file will open showing us the settings we put before.  
 
 Carriage Return:  
+Every time you press "enter" on your keyboard, you insert and invisible character called the end of line or carriage return. This is handle differently on different operating systems.  
+When you collaborate on projects with Git and Github, Git might produce unexpected results if, for example, you are working on Windows and your collaborator made changes on macOS.  
+You can configure git to handle the end-of-line automatically so you can colaborate effectively with people using other operating systems.  
 
 ```
 git config --global core.autocrlf input
