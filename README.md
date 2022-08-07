@@ -51,3 +51,5 @@ If you want to know what other configuration possibilities git has you can use
 ```
 git config -h
 ```
+
+## Terminal basic commands
