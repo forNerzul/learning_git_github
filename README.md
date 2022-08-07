@@ -2,8 +2,8 @@
 Repository created to document the process of learning git and the useful commands i will need in this process
 ## Table of Contents
 1. [Install Git ](#1-install-git)
-2. [Setting up Git](#2-setting-up-git)
-2.1 [List of commands](#2.1)
+2. [Setting up Git](#2-setting-up-git)  
+2.1 [List of commands](#21-list-of-commands)  
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
