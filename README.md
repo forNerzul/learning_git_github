@@ -1,11 +1,13 @@
 # learning_git_github
 Repository created to document the process of learning git and the useful commands i will need in this process
+https://www.youtube.com/watch?v=VdGzPZ31ts8&t=518s
 ## Table of Contents
 1. [Install Git ](#1-install-git)
 2. [Setting up Git](#2-setting-up-git)  
 2.1 [List of commands](#21-list-of-commands)    
 2.1.1 [Carriage Return](#211-carriage-return)
-3. [Terminal basic commands](#3-terminal-basic-commands)
+2.1.2 [Terminal basic commands](#212-terminal-basic-commands)
+2.1.3 [Initializing Repository](#213-initializing-repository)
 
 ## 1. Install Git
 Download Git from this url: https://git-scm.com/downloads  
@@ -59,7 +61,7 @@ If you want to know what other configuration possibilities git has you can use
 git config -h
 ```
 
-## 3. Terminal basic commands
+#### 2.1.2 Terminal basic commands
 ```
 ls
 ```
@@ -71,4 +73,10 @@ pwd
 ```
 cd <directory>
 ```
-> The "cd" will allow us to move to another directory, for example, imagine we are in /Desktop, and inside we have a directory called Project, so to access Project we have to type "cd Project" now press enter and you will notice if you use the command "pwd" we are in /Desktop/Project
+> The "cd" command will allow us to move to another directory, for example, imagine we are in /Desktop, and inside we have a directory called Project, so to access Project we have to type "cd Project" now press enter and you will notice if you use the command "pwd" we are in /Desktop/Project
+```
+mkdir <directory>
+```
+> The "mkdir" command will allow us to create a new directory, for example, if we need to create a directory called "workspace", we must type "mkdir workspace" which will create the workspace directory.
+
+#### 2.1.3 Initializing Repository
