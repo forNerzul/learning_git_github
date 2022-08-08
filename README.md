@@ -5,9 +5,9 @@ https://www.youtube.com/watch?v=VdGzPZ31ts8&t=518s
 1. [Install Git ](#1-install-git)
 2. [Setting up Git](#2-setting-up-git)  
 2.1 [List of commands](#21-list-of-commands)    
-2.1.1 [Carriage Return](#211-carriage-return)
-2.1.2 [Terminal basic commands](#212-terminal-basic-commands)
-2.1.3 [Initializing Repository](#213-initializing-repository)
+2.1.1 [Carriage Return](#211-carriage-return)  
+2.1.2 [Terminal basic commands](#212-terminal-basic-commands)  
+2.1.3 [Initializing Repository](#213-initializing-repository)  
 
 ## 1. Install Git
 Download Git from this url: https://git-scm.com/downloads  
