@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=VdGzPZ31ts8&t=518s
 2.1 [List of commands](#21-list-of-commands)    
 2.1.1 [Carriage Return](#211-carriage-return)  
 2.1.2 [Terminal basic commands](#212-terminal-basic-commands)  
-2.1.3 [Initializing Repository](#213-initializing-repository)  
+2.1.3 [Initializing Repository](#213-working-with-a-repository)  
 
 ## 1. Install Git
 Download Git from this url: https://git-scm.com/downloads  
@@ -50,11 +50,11 @@ You can configure git to handle the end-of-line automatically so you can colabor
 ```
 git config --global core.autocrlf input
 ```
-> In case you are using macOS or linux you must use "input" to set up autocrlf
+> In case you are using macOS or linux you must use "input" to set up autocrlf.
 ```
 git config --global core.autocrlf true
 ```
-> In case you are using Windows you must use "true" to set up autocrlf  
+> In case you are using Windows you must use "true" to set up autocrlf.
 
 If you want to know what other configuration possibilities git has you can use
 ```
@@ -77,14 +77,27 @@ pwd
 ```
 cd <directory>
 ```
-> The "cd" command will allow us to move to another directory, for example, imagine we are in /Desktop, and inside we have a directory called Project, so to access Project we have to type "cd Project" now press enter and you will notice if you use the command "pwd" we are in /Desktop/Project
+> The "cd" command will allow us to move to another directory, for example, imagine we are in /Desktop, and inside we have a directory called Project, so to access Project we have to type "cd Project" now press enter and you will notice if you use the command "pwd" we are in /Desktop/Project.
 ```
 mkdir <directory>
 ```
 > The "mkdir" command will allow us to create a new directory, for example, if we need to create a directory called "workspace", we must type "mkdir workspace" which will create the workspace directory.
 
-#### 2.1.3 Initializing Repository
+#### 2.1.3 Working with a Repository
 ```
 git init
 ```
-> Once we are inside the directory of our project we must type the command "git init" to initialize the git repository
+> Once we are inside the directory of our project we must type the command "git init" to initialize the git repository.
+```
+git add
+```
+> Adding a file to the stage fase.
+```
+git commit -m "Description of the commit"
+```
+> Committing the changes from the stage fase
+```
+git status
+```
+> The "git status" command will give us the status of the repository
+
