@@ -93,6 +93,10 @@ git add
 ```
 > Adding a file to the stage fase.
 ```
+git add .
+```
+> The "git add ." command is for adding all files in the repository to the stage phase. Try not to use this too much because it will be a mess if you accidentally add a file you don't want to stage. For example, there are files like large binaries or images or things like the venv file, if you use this command it will push all files into the repository.
+```
 git commit -m "Description of the commit"
 ```
 > Committing the changes from the stage fase
