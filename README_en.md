@@ -104,5 +104,3 @@ git commit -m "Description of the commit"
 git status
 ```
 > The "git status" command will give us the status of the repository
-
-changes
