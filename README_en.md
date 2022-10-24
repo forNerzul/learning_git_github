@@ -104,3 +104,68 @@ git commit -m "Description of the commit"
 git status
 ```
 > The "git status" command will give us the status of the repository
+
+## Commandos sueltos
+
+```
+git log
+```
+> git log es para ver el historial de commits que se han hecho en el repositorio
+
+```
+git remote add origin <direccion del repositorio>
+```
+> git remote add origin es para agregar el repositorio remoto, en este caso el repositorio de github
+
+```
+git pull origin <nombre de la rama>
+```
+> git pull origin es para traer los cambios que se han hecho en el repositorio remoto, en este caso github
+
+```
+git push origin <nombre de la rama>
+```
+> git push origin es para subir los cambios que se han hecho en el repositorio local, en este caso el repositorio de la computadora
+
+```
+git branch
+```
+> git branch es para ver las ramas que existen en el repositorio
+
+```
+```
+
+```
+git branch <nombre de la rama>
+```
+> git branch es para crear una nueva rama
+
+
+```
+git checkout -b <nombre de la rama>
+```
+> git checkout -b es para crear una nueva rama y moverse a ella
+
+```
+git switch -c <nombre de la rama>
+```
+> git switch -c es para crear una nueva rama y moverse a ella
+
+```
+git fetch
+```
+> git fetch es para traer los cambios que se han hecho en el repositorio remoto, en este caso github
+
+```
+git stash
+```
+> git stash es para guardar los cambios que se han hecho en el repositorio local, en este caso el repositorio de la computadora. Se queda en un estado alternativo, para devolver los cambios ver `git stash pop`
+
+```
+
+```
+git stash pop
+```
+> git stash pop es para traer los cambios que se han guardado con git stash
+
+```
