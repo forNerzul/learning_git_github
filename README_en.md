@@ -159,13 +159,13 @@ git fetch
 ```
 git stash
 ```
-> git stash es para guardar los cambios que se han hecho en el repositorio local, en este caso el repositorio de la computadora. Se queda en un estado alternativo, para devolver los cambios ver `git stash pop`
+> git stash es para guardar los cambios que se han hecho en el repositorio local, en este caso el repositorio de la computadora. Se queda en un estado alternativo llamado `stash`, para devolver los cambios del stash ver `git stash pop`
 
 ```
 
 ```
 git stash pop
 ```
-> git stash pop es para traer los cambios que se han guardado con git stash
+> git stash pop es para traer los cambios temporales que se han guardado con git stash
 
 ```
